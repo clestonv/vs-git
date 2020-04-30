@@ -1,6 +1,6 @@
 # Integração Git / GitHub
 
-One Paragraph of project description goes here
+Tutorial do Código Fonte TV de como usar o Git no VS Code
 
 ## Imagem do Site
 
